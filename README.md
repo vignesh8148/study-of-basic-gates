@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
 module viky(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 output c1,c2,c3,c4,c5,c6,c7;
@@ -74,6 +75,7 @@ nor g5(c5,a,b);
 xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
+```
  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2025-11-12 at 10 46 44_c4d97481](https://github.com/user-attachments/assets/e3bb5e23-7cc3-40dc-8f56-a8caa932a39f)

@@ -78,6 +78,7 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
 ![WhatsApp Image 2025-11-12 at 10 46 44_c4d97481](https://github.com/user-attachments/assets/e3bb5e23-7cc3-40dc-8f56-a8caa932a39f)
 
 **RTL realization Output:** 
